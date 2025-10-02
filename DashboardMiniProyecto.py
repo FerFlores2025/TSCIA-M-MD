@@ -131,6 +131,6 @@ nuevo_cliente = pd.DataFrame({
 })
 
 prediccion = clf.predict(nuevo_cliente)[0]
-resultado = " Recomienda Recompra" if prediccion==1 else "❌ No Recompra"
+resultado = " Recomienda Recompra" if prediccion==1 else " No Recompra"
 
 st.write(f"*Resultado del modelo:* {resultado}")
