@@ -1,0 +1,10 @@
+[
+    {
+        "id_provincia":1,
+        "nombre_provincia":"Buenos Aires"
+    },
+    {
+        "id_provincia":3,
+        "nombre_provincia":"Corriente"
+    }
+]

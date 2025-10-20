@@ -1,0 +1,182 @@
+[
+    {
+        "id_producto":1,
+        "nombre_producto":"Arroz 1kg",
+        "precio":1200.0,
+        "id_rubro":1
+    },
+    {
+        "id_producto":2,
+        "nombre_producto":"Fideos Spaghetti 500g",
+        "precio":950.0,
+        "id_rubro":1
+    },
+    {
+        "id_producto":3,
+        "nombre_producto":"Harina 1kg",
+        "precio":850.0,
+        "id_rubro":1
+    },
+    {
+        "id_producto":4,
+        "nombre_producto":"Aceite de girasol 1L",
+        "precio":1800.0,
+        "id_rubro":1
+    },
+    {
+        "id_producto":5,
+        "nombre_producto":"Pan lactal",
+        "precio":1500.0,
+        "id_rubro":1
+    },
+    {
+        "id_producto":6,
+        "nombre_producto":"Galletitas dulces",
+        "precio":700.0,
+        "id_rubro":1
+    },
+    {
+        "id_producto":7,
+        "nombre_producto":"Agua mineral 2L",
+        "precio":900.0,
+        "id_rubro":2
+    },
+    {
+        "id_producto":8,
+        "nombre_producto":"Gaseosa cola 2.25L",
+        "precio":1800.0,
+        "id_rubro":2
+    },
+    {
+        "id_producto":9,
+        "nombre_producto":"Jugo de naranja 1L",
+        "precio":1200.0,
+        "id_rubro":2
+    },
+    {
+        "id_producto":10,
+        "nombre_producto":"Cerveza lata 473ml",
+        "precio":750.0,
+        "id_rubro":2
+    },
+    {
+        "id_producto":11,
+        "nombre_producto":"Vino tinto botella",
+        "precio":3500.0,
+        "id_rubro":2
+    },
+    {
+        "id_producto":12,
+        "nombre_producto":"Energética 500ml",
+        "precio":1600.0,
+        "id_rubro":2
+    },
+    {
+        "id_producto":13,
+        "nombre_producto":"Detergente 500ml",
+        "precio":950.0,
+        "id_rubro":3
+    },
+    {
+        "id_producto":14,
+        "nombre_producto":"Lavandina 1L",
+        "precio":750.0,
+        "id_rubro":3
+    },
+    {
+        "id_producto":15,
+        "nombre_producto":"Jabón en polvo 800g",
+        "precio":2100.0,
+        "id_rubro":3
+    },
+    {
+        "id_producto":16,
+        "nombre_producto":"Suavizante 1L",
+        "precio":1800.0,
+        "id_rubro":3
+    },
+    {
+        "id_producto":17,
+        "nombre_producto":"Esponja multiuso",
+        "precio":500.0,
+        "id_rubro":3
+    },
+    {
+        "id_producto":18,
+        "nombre_producto":"Trapo de piso",
+        "precio":600.0,
+        "id_rubro":3
+    },
+    {
+        "id_producto":19,
+        "nombre_producto":"Auriculares Bluetooth",
+        "precio":12500.0,
+        "id_rubro":4
+    },
+    {
+        "id_producto":20,
+        "nombre_producto":"Mouse inalámbrico",
+        "precio":6500.0,
+        "id_rubro":4
+    },
+    {
+        "id_producto":21,
+        "nombre_producto":"Teclado mecánico",
+        "precio":22000.0,
+        "id_rubro":4
+    },
+    {
+        "id_producto":22,
+        "nombre_producto":"Monitor 24 pulgadas",
+        "precio":85000.0,
+        "id_rubro":4
+    },
+    {
+        "id_producto":23,
+        "nombre_producto":"Parlante portátil",
+        "precio":18000.0,
+        "id_rubro":4
+    },
+    {
+        "id_producto":24,
+        "nombre_producto":"Smartphone gama media",
+        "precio":180000.0,
+        "id_rubro":4
+    },
+    {
+        "id_producto":25,
+        "nombre_producto":"Camiseta básica",
+        "precio":4500.0,
+        "id_rubro":5
+    },
+    {
+        "id_producto":26,
+        "nombre_producto":"Pantalón jean",
+        "precio":12500.0,
+        "id_rubro":5
+    },
+    {
+        "id_producto":27,
+        "nombre_producto":"Zapatillas deportivas",
+        "precio":32000.0,
+        "id_rubro":5
+    },
+    {
+        "id_producto":28,
+        "nombre_producto":"Campera de abrigo",
+        "precio":48000.0,
+        "id_rubro":5
+    },
+    {
+        "id_producto":29,
+        "nombre_producto":"Vestido casual",
+        "precio":22000.0,
+        "id_rubro":5
+    },
+    {
+        "id_producto":30,
+        "nombre_producto":"Medias pack x3",
+        "precio":3000.0,
+        "id_rubro":5
+    }
+]

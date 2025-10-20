@@ -1,0 +1,62 @@
+[
+    {
+        "id_cliente":1,
+        "nombre":"Juan Pérez",
+        "apellido":"Av. Mitre 123, Avellaneda",
+        "direccion":1160001111
+    },
+    {
+        "id_cliente":2,
+        "nombre":"María López",
+        "apellido":"Calle San Martín 456, Lanús",
+        "direccion":1160002222
+    },
+    {
+        "id_cliente":3,
+        "nombre":"Carlos García",
+        "apellido":"Av. Belgrano 789, Quilmes",
+        "direccion":1160003333
+    },
+    {
+        "id_cliente":4,
+        "nombre":"Ana Fernández",
+        "apellido":"Calle Rivadavia 101, CABA",
+        "direccion":1160004444
+    },
+    {
+        "id_cliente":5,
+        "nombre":"Luis Martínez",
+        "apellido":"Av. Pavón 222, Avellaneda",
+        "direccion":1160005555
+    },
+    {
+        "id_cliente":6,
+        "nombre":"Laura González",
+        "apellido":"Calle Moreno 333, Bernal",
+        "direccion":1160006666
+    },
+    {
+        "id_cliente":7,
+        "nombre":"Pedro Ramírez",
+        "apellido":"Av. Mitre 444, Avellaneda",
+        "direccion":1160007777
+    },
+    {
+        "id_cliente":8,
+        "nombre":"Sofía Torres",
+        "apellido":"Calle Lavalle 555, Lanús",
+        "direccion":1160008888
+    },
+    {
+        "id_cliente":9,
+        "nombre":"Martín Díaz",
+        "apellido":"Av. H. Yrigoyen 666, Banfield",
+        "direccion":1160009999
+    },
+    {
+        "id_cliente":10,
+        "nombre":"Valentina Suárez",
+        "apellido":"Calle Alem 777, Avellaneda",
+        "direccion":1160000000
+    }
+]

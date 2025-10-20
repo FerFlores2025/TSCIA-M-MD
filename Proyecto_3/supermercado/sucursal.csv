@@ -1,0 +1,6 @@
+"id_sucursal","nombre_sucursal","direccion","telefono","id_localidad"
+"1","Sucursal Centro Avellaneda","Av. Mitre 200, Avellaneda","1144001111","1"
+"2","Sucursal Lanús Oeste","Calle 9 de Julio 300, Lanús","1144002222","2"
+"3","Sucursal Quilmes Centro","Av. Hipólito Yrigoyen 400, Quilmes","1144003333","3"
+"4","Sucursal Bernal Este","Calle San Martín 500, Bernal","1144004444","4"
+"5","Sucursal Banfield Norte","Av. Alsina 600, Banfield","1144005555","5"
