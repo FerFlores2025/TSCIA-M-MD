@@ -1,0 +1,52 @@
+[
+    {
+        "id_localidad":1,
+        "nombre_localidad":"Avellaneda",
+        "id_provincia":1
+    },
+    {
+        "id_localidad":2,
+        "nombre_localidad":"Lan\u00fas",
+        "id_provincia":1
+    },
+    {
+        "id_localidad":3,
+        "nombre_localidad":"Quilmes",
+        "id_provincia":1
+    },
+    {
+        "id_localidad":4,
+        "nombre_localidad":"Bernal",
+        "id_provincia":1
+    },
+    {
+        "id_localidad":5,
+        "nombre_localidad":"Banfield",
+        "id_provincia":1
+    },
+    {
+        "id_localidad":6,
+        "nombre_localidad":"Lomas de Zamora",
+        "id_provincia":1
+    },
+    {
+        "id_localidad":7,
+        "nombre_localidad":"Adrogu\u00e9",
+        "id_provincia":1
+    },
+    {
+        "id_localidad":8,
+        "nombre_localidad":"Temperley",
+        "id_provincia":1
+    },
+    {
+        "id_localidad":9,
+        "nombre_localidad":"Remedios de Escalada",
+        "id_provincia":1
+    },
+    {
+        "id_localidad":10,
+        "nombre_localidad":"Wilde",
+        "id_provincia":1
+    }
+]

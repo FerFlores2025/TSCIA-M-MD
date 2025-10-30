@@ -1,0 +1,26 @@
+[
+    {
+        "id_rubro":1,
+        "nombre_rubro":"Alimentos"
+    },
+    {
+        "id_rubro":2,
+        "nombre_rubro":"bebidas"
+    },
+    {
+        "id_rubro":3,
+        "nombre_rubro":"Limpieza"
+    },
+    {
+        "id_rubro":4,
+        "nombre_rubro":"Electr\u00f3nica"
+    },
+    {
+        "id_rubro":5,
+        "nombre_rubro":"Ropa"
+    },
+    {
+        "id_rubro":6,
+        "nombre_rubro":"zapatillas"
+    }
+]

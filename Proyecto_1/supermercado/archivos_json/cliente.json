@@ -1,0 +1,62 @@
+[
+    {
+        "id_cliente":1,
+        "nombre_cliente":"Juan P\u00e9rez",
+        "direccion":"Av. Mitre 123, Avellaneda",
+        "telefono":1160001111
+    },
+    {
+        "id_cliente":2,
+        "nombre_cliente":"Mar\u00eda L\u00f3pez",
+        "direccion":"Calle San Mart\u00edn 456, Lan\u00fas",
+        "telefono":1160002222
+    },
+    {
+        "id_cliente":3,
+        "nombre_cliente":"Carlos Garc\u00eda",
+        "direccion":"Av. Belgrano 789, Quilmes",
+        "telefono":1160003333
+    },
+    {
+        "id_cliente":4,
+        "nombre_cliente":"Ana Fern\u00e1ndez",
+        "direccion":"Calle Rivadavia 101, CABA",
+        "telefono":1160004444
+    },
+    {
+        "id_cliente":5,
+        "nombre_cliente":"Luis Mart\u00ednez",
+        "direccion":"Av. Pav\u00f3n 222, Avellaneda",
+        "telefono":1160005555
+    },
+    {
+        "id_cliente":6,
+        "nombre_cliente":"Laura Gonz\u00e1lez",
+        "direccion":"Calle Moreno 333, Bernal",
+        "telefono":1160006666
+    },
+    {
+        "id_cliente":7,
+        "nombre_cliente":"Pedro Ram\u00edrez",
+        "direccion":"Av. Mitre 444, Avellaneda",
+        "telefono":1160007777
+    },
+    {
+        "id_cliente":8,
+        "nombre_cliente":"Sof\u00eda Torres",
+        "direccion":"Calle Lavalle 555, Lan\u00fas",
+        "telefono":1160008888
+    },
+    {
+        "id_cliente":9,
+        "nombre_cliente":"Mart\u00edn D\u00edaz",
+        "direccion":"Av. H. Yrigoyen 666, Banfield",
+        "telefono":1160009999
+    },
+    {
+        "id_cliente":10,
+        "nombre_cliente":"Valentina Su\u00e1rez",
+        "direccion":"Calle Alem 777, Avellaneda",
+        "telefono":1160000000
+    }
+]

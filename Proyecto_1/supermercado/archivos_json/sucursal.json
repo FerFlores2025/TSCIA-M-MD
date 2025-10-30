@@ -1,0 +1,37 @@
+[
+    {
+        "id_sucursal":1,
+        "nombre_sucursal":"Sucursal Centro Avellaneda",
+        "direccion":"Av. Mitre 200, Avellaneda",
+        "telefono":1144001111,
+        "id_localidad":1
+    },
+    {
+        "id_sucursal":2,
+        "nombre_sucursal":"Sucursal Lan\u00fas Oeste",
+        "direccion":"Calle 9 de Julio 300, Lan\u00fas",
+        "telefono":1144002222,
+        "id_localidad":2
+    },
+    {
+        "id_sucursal":3,
+        "nombre_sucursal":"Sucursal Quilmes Centro",
+        "direccion":"Av. Hip\u00f3lito Yrigoyen 400, Quilmes",
+        "telefono":1144003333,
+        "id_localidad":3
+    },
+    {
+        "id_sucursal":4,
+        "nombre_sucursal":"Sucursal Bernal Este",
+        "direccion":"Calle San Mart\u00edn 500, Bernal",
+        "telefono":1144004444,
+        "id_localidad":4
+    },
+    {
+        "id_sucursal":5,
+        "nombre_sucursal":"Sucursal Banfield Norte",
+        "direccion":"Av. Alsina 600, Banfield",
+        "telefono":1144005555,
+        "id_localidad":5
+    }
+]

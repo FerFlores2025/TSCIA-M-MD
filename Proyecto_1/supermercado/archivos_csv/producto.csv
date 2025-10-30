@@ -1,0 +1,31 @@
+id_producto,nombre_producto,precio,id_rubro
+1,Arroz 1kg,1200.0,1
+2,Fideos Spaghetti 500g,950.0,1
+3,Harina 1kg,850.0,1
+4,Aceite de girasol 1L,1800.0,1
+5,Pan lactal,1500.0,1
+6,Galletitas dulces,700.0,1
+7,Agua mineral 2L,900.0,2
+8,Gaseosa cola 2.25L,1800.0,2
+9,Jugo de naranja 1L,1200.0,2
+10,Cerveza lata 473ml,750.0,2
+11,Vino tinto botella,3500.0,2
+12,Energética 500ml,1600.0,2
+13,Detergente 500ml,950.0,3
+14,Lavandina 1L,750.0,3
+15,Jabón en polvo 800g,2100.0,3
+16,Suavizante 1L,1800.0,3
+17,Esponja multiuso,500.0,3
+18,Trapo de piso,600.0,3
+19,Auriculares Bluetooth,12500.0,4
+20,Mouse inalámbrico,6500.0,4
+21,Teclado mecánico,22000.0,4
+22,Monitor 24 pulgadas,85000.0,4
+23,Parlante portátil,18000.0,4
+24,Smartphone gama media,180000.0,4
+25,Camiseta básica,4500.0,5
+26,Pantalón jean,12500.0,5
+27,Zapatillas deportivas,32000.0,5
+28,Campera de abrigo,48000.0,5
+29,Vestido casual,22000.0,5
+30,Medias pack x3,3000.0,5

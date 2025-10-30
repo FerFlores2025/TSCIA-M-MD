@@ -1,0 +1,11 @@
+id_cliente,nombre_cliente,direccion,telefono
+1,Juan Pérez,"Av. Mitre 123, Avellaneda",1160001111
+2,María López,"Calle San Martín 456, Lanús",1160002222
+3,Carlos García,"Av. Belgrano 789, Quilmes",1160003333
+4,Ana Fernández,"Calle Rivadavia 101, CABA",1160004444
+5,Luis Martínez,"Av. Pavón 222, Avellaneda",1160005555
+6,Laura González,"Calle Moreno 333, Bernal",1160006666
+7,Pedro Ramírez,"Av. Mitre 444, Avellaneda",1160007777
+8,Sofía Torres,"Calle Lavalle 555, Lanús",1160008888
+9,Martín Díaz,"Av. H. Yrigoyen 666, Banfield",1160009999
+10,Valentina Suárez,"Calle Alem 777, Avellaneda",1160000000
